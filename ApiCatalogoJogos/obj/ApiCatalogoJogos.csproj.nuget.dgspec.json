@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imsribeiro\\Documents\\Projetos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj": {}
+    "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imsribeiro\\Documents\\Projetos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj": {
+    "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imsribeiro\\Documents\\Projetos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+        "projectUniqueName": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
         "projectName": "ApiCatalogoJogos",
-        "projectPath": "C:\\Users\\imsribeiro\\Documents\\Projetos\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
-        "packagesPath": "C:\\Users\\imsribeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imsribeiro\\Documents\\Projetos\\ApiCatalogoJogos\\ApiCatalogoJogos\\obj\\",
+        "projectPath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+        "packagesPath": "C:\\Users\\Igor de Moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\ApiCatalogoJogos\\ApiCatalogoJogos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\imsribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor de Moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +46,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
             }
           },
           "imports": [
